@@ -30,7 +30,11 @@ Clona el repositorio o descarga los archivos.
 Abre una terminal en la carpeta del proyecto.
 
 Ejecuta el servidor con el siguiente comando:
+npm init -y
+Instalar mysql2 -- npm install mysql2
+instalar ejs html js -- npm install ejs
 
-Bash
+npm install express ejs mysql2 express-session
+
 node app.js
 Abre tu navegador y accede a: http://localhost:3000
