@@ -1,7 +1,7 @@
 # Actividad9
 Actividad Servidor simple con node.js
-Proyecto Node.js - Servidor Básico (Santo Tomás)
-Este repositorio contiene un proyecto práctico desarrollado para la asignatura de programación, donde se implementa un servidor web utilizando el módulo nativo http de Node.js.
+Proyecto Node.js - Servidor Básico
+Este repositorio contiene un proyecto práctico desarrollado para la asignatura de programación web, donde se implementa un servidor web utilizando el módulo nativo http de Node.js.
 
 🚀 Características
 Servidor HTTP Nativo: Configuración de un servidor sin dependencias externas (Express).
